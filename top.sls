@@ -1,0 +1,5 @@
+base:
+    '*':
+        - nginxSend
+        - nginxInstall
+        - nginxRepl
